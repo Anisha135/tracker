@@ -1,0 +1,7 @@
+.container{
+    width: 1000px;
+    display:flex;
+    justify-content: center;
+    position: relative;
+    top:50px;
+}
