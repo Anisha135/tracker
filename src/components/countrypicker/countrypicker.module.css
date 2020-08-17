@@ -4,3 +4,9 @@
     position:relative;
     bottom: 500px;
 }
+@media only screen and (max-width: 770px) {
+  .con {
+    width:30%;
+    bottom:170px;
+  }
+}
